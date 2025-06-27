@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "Paie"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ac506b4d-d072-89b2-43e9-9a79dcf1bf11"
+  }
+}
