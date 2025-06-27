@@ -29,7 +29,7 @@
               },
               "schema": [],
               "linkedService": {
-                "name": "Paie",
+                "name": "ld_paie",
                 "properties": {
                   "type": "Lakehouse",
                   "typeProperties": {
@@ -91,7 +91,7 @@
               },
               "schema": [],
               "linkedService": {
-                "name": "Paie",
+                "name": "ld_paie",
                 "properties": {
                   "type": "Lakehouse",
                   "typeProperties": {
@@ -130,7 +130,7 @@
       "Paie": {
         "type": "String",
         "variableName": "Paie",
-        "libraryName": "Interface"
+        "libraryName": "vars_interfaces"
       }
     }
   }
